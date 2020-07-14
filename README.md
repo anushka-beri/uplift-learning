@@ -1,4 +1,4 @@
-# uplift-learning
+# Uplift-learning
 ### This repository consists of the roadmap of learning for uplift react team 1.
 
 ## Prerequisite
